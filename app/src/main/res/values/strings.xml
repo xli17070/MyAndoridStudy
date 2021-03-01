@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyAndoridStudy</string>
+    <string name="home_name">应用</string>
+    <string name="button_change">更改</string>
+    <string name="button_jump">跳转</string>
+    <string name="text_hint">请输入</string>
 </resources>
